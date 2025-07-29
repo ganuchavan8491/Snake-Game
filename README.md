@@ -32,4 +32,4 @@
 - Python **3.8+**
 - No external libraries (uses `turtle`)
 
-### Project Structure
+---
